@@ -37,7 +37,7 @@ Contoh kata "print" pada gambar diatas merupakan function / fungsi
 
  8. setting, untuk mengatur sesuai keinginan user
 
-3. Sebutkan dan jelaskan ekstension itu apa, dan contohnya dan penerapannya(didalam vs code)
+3 . Sebutkan dan jelaskan ekstension itu apa, dan contohnya dan penerapannya(didalam vs code)
 
 ![z 3](https://user-images.githubusercontent.com/92985452/138675637-43cb934a-e1a3-4ffe-97c1-ce5c177e92db.png)
 
